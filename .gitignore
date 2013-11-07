@@ -1,6 +1,7 @@
-*.class
+class veera {
+public static void main(String args[]) {
+System.out.println("veera");
+}
+}
 
-# Package Files #
-*.jar
-*.war
-*.ear
+
